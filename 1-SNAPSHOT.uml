@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>MAVEN</ID>
+  <OriginalElement>org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT</OriginalElement>
+  <nodes>
+    <node x="0.0" y="1334.9693750000001">org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT</node>
+    <node x="241.5" y="996.6443159068172">com.alibaba:fastjson:jar:1.2.68</node>
+    <node x="211.0" y="373.0764999999999">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final</node>
+    <node x="588.5" y="443.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+    <node x="585.0" y="218.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final</node>
+    <node x="828.0" y="133.96937500000013">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.javassist:javassist:jar:3.24.0-GA</node>
+    <node x="838.5" y="256.9693750000001">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/antlr:antlr:jar:2.7.7</node>
+    <node x="832.5" y="215.96937500000013">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.jboss:jandex:jar:2.1.1.Final</node>
+    <node x="823.5" y="827.8443750000001">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/com.fasterxml:classmate:jar:1.5.1</node>
+    <node x="796.0" y="92.96937500000013">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.activation:javax.activation-api:jar:1.2.0</node>
+    <node x="828.5" y="174.96937500000013">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.xml.bind:jaxb-api:jar:2.3.1</node>
+    <node x="814.5" y="492.1561666666669">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1</node>
+    <node x="1009.5" y="448.5311666666669">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/org.glassfish.jaxb:txw2:jar:2.3.1</node>
+    <node x="951.0" y="571.5311666666669">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/com.sun.istack:istack-commons-runtime:jar:3.0.7</node>
+    <node x="1003.0" y="489.5311666666669">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/org.jvnet.staxex:stax-ex:jar:1.8</node>
+    <node x="992.0" y="530.5311666666669">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.15</node>
+    <node x="610.0" y="320.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.dom4j:dom4j:jar:2.1.1</node>
+    <node x="533.0" y="361.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.1.0.Final</node>
+    <node x="568.0" y="279.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/javax.persistence:javax.persistence-api:jar:2.2</node>
+    <node x="594.5" y="402.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/net.bytebuddy:byte-buddy:jar:1.10.7</node>
+    <node x="539.5" y="157.75">org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.1.1.Final</node>
+    <node x="227.5" y="814.625">org.hibernate.validator:hibernate-validator:jar:6.1.3.Final</node>
+    <node x="568.5" y="792.0943750000001">org.hibernate.validator:hibernate-validator:jar:6.1.3.Final/jakarta.validation:jakarta.validation-api:jar:2.0.2</node>
+    <node x="600.5" y="833.0943750000001">org.hibernate.validator:hibernate-validator:jar:6.1.3.Final/com.fasterxml:classmate:jar:1.3.4</node>
+    <node x="237.5" y="945.1443159068172">org.springframework:spring-tx:jar:5.2.5.RELEASE</node>
+    <node x="219.0" y="1344.6443159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE</node>
+    <node x="484.0" y="749.3943159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE</node>
+    <node x="514.5" y="579.8943159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.3.RELEASE</node>
+    <node x="510.5" y="688.3943159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.3.RELEASE</node>
+    <node x="526.0" y="1494.1234825734837">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.26</node>
+    <node x="516.0" y="1377.7506523569027">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-orm:jar:5.2.3.RELEASE</node>
+    <node x="505.5" y="831.3943159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-context:jar:5.2.3.RELEASE</node>
+    <node x="516.5" y="790.3943159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-aop:jar:5.2.3.RELEASE</node>
+    <node x="522.5" y="950.3943159068172">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-tx:jar:5.2.3.RELEASE</node>
+    <node x="510.5" y="1271.896485690236">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE</node>
+    <node x="514.5" y="1148.896485690236">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE</node>
+    <node x="523.0" y="1336.7506523569027">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.aspectj:aspectjrt:jar:1.9.5</node>
+    <node x="526.0" y="1791.6957935207927">org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.5</node>
+    <node x="231.0" y="1549.6443159068172">org.springframework:spring-orm:jar:5.2.5.RELEASE</node>
+    <node x="230.0" y="1385.6443159068172">org.springframework:spring-jdbc:jar:5.2.5.RELEASE</node>
+    <node x="247.5" y="1905.8443750000001">org.apache.tomcat:tomcat-jdbc:jar:8.5.14</node>
+    <node x="597.0" y="1870.0943750000001">org.apache.tomcat:tomcat-jdbc:jar:8.5.14/org.apache.tomcat:tomcat-juli:jar:8.5.14</node>
+    <node x="220.5" y="1946.8443750000001">mysql:mysql-connector-java:jar:8.0.19</node>
+    <node x="588.5" y="1982.5943750000001">mysql:mysql-connector-java:jar:8.0.19/com.google.protobuf:protobuf-java:jar:3.6.1</node>
+    <node x="237.5" y="1314.4693750000001">org.springside:springside-core:jar:4.1.0.GA</node>
+    <node x="218.5" y="1037.6443159068172">org.springframework:spring-webmvc:jar:5.2.5.RELEASE</node>
+    <node x="496.5" y="872.3943159068172">org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-expression:jar:5.2.5.RELEASE</node>
+    <node x="230.5" y="1098.6443159068172">org.springframework:spring-web:jar:5.2.5.RELEASE</node>
+    <node x="229.5" y="518.75">org.springframework:spring-core:jar:5.2.5.RELEASE</node>
+    <node x="521.5" y="312.26931590681716">org.springframework:spring-core:jar:5.2.5.RELEASE/org.springframework:spring-jcl:jar:5.2.5.RELEASE</node>
+    <node x="225.5" y="804.7693159068172">org.springframework:spring-beans:jar:5.2.5.RELEASE</node>
+    <node x="220.5" y="682.625">org.springframework:spring-context:jar:5.2.5.RELEASE</node>
+    <node x="231.5" y="621.625">org.springframework:spring-aop:jar:5.2.5.RELEASE</node>
+    <node x="246.5" y="332.0764999999999">com.fasterxml.jackson.core:jackson-core:jar:2.10.3</node>
+    <node x="233.5" y="122.0">com.fasterxml.jackson.core:jackson-databind:jar:2.10.3</node>
+    <node x="570.5" y="116.75">com.fasterxml.jackson.core:jackson-databind:jar:2.10.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.10.3</node>
+    <node x="186.0" y="61.0">com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3</node>
+    <node x="571.5" y="0.0">com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2</node>
+    <node x="568.5" y="61.0">com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3/jakarta.activation:jakarta.activation-api:jar:1.2.1</node>
+    <node x="275.5" y="1519.4693750000001">javax.servlet:jstl:jar:1.2</node>
+    <node x="253.0" y="1437.4693750000001">javax.servlet:servlet-api:jar:2.5</node>
+    <node x="264.0" y="1601.4693750000001">javax.servlet.jsp:jsp-api:jar:2.2</node>
+    <node x="236.5" y="1273.4693750000001">org.apache.commons:commons-lang3:jar:3.1</node>
+    <node x="247.0" y="1355.4693750000001">commons-io:commons-io:jar:2.4</node>
+    <node x="223.5" y="1642.4693750000001">commons-fileupload:commons-fileupload:jar:1.2</node>
+    <node x="266.5" y="1724.4693750000001">com.google.guava:guava:jar:14.0.1</node>
+    <node x="230.0" y="1478.4693750000001">commons-logging:commons-logging:jar:1.1.3</node>
+    <node x="221.0" y="1560.4693750000001">commons-collections:commons-collections:jar:3.2.1</node>
+    <node x="248.5" y="2129.531875">org.apache.shiro:shiro-spring:jar:1.2.2</node>
+    <node x="598.5" y="2064.594375">org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2</node>
+    <node x="606.0" y="1747.0943750000001">org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/org.slf4j:slf4j-api:jar:1.6.4</node>
+    <node x="794.0" y="2064.594375">org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3</node>
+    <node x="599.5" y="2134.781875">org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-web:jar:1.2.2</node>
+    <node x="243.0" y="2004.4068750000001">org.apache.shiro:shiro-ehcache:jar:1.2.2</node>
+    <node x="589.0" y="1926.3443750000001">org.apache.shiro:shiro-ehcache:jar:1.2.2/net.sf.ehcache:ehcache-core:jar:2.5.0</node>
+    <node x="244.0" y="1850.9068750000001">net.sf.ehcache:ehcache-core:jar:2.6.6</node>
+    <node x="606.0" y="1788.0943750000001">net.sf.ehcache:ehcache-core:jar:2.6.6/org.slf4j:slf4j-api:jar:1.6.1</node>
+    <node x="234.5" y="1396.4693750000001">commons-codec:commons-codec:jar:1.8</node>
+    <node x="248.5" y="2079.844375">org.apache.shiro:shiro-quartz:jar:1.2.2</node>
+    <node x="610.5" y="2023.5943750000001">org.apache.shiro:shiro-quartz:jar:1.2.2/org.opensymphony.quartz:quartz:jar:1.6.1</node>
+    <node x="261.0" y="1683.4693750000001">org.slf4j:slf4j-api:jar:1.7.5</node>
+    <node x="239.5" y="2175.781875">ch.qos.logback:logback-classic:jar:1.0.13</node>
+    <node x="590.0" y="2175.781875">ch.qos.logback:logback-classic:jar:1.0.13/ch.qos.logback:logback-core:jar:1.0.13</node>
+    <node x="231.5" y="272.375">org.springframework:spring-test:jar:5.2.5.RELEASE</node>
+    <node x="271.0" y="1794.6568750000001">junit:junit:jar:4.11</node>
+    <node x="586.5" y="1829.0943750000001">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/net.bytebuddy:byte-buddy:jar:1.10.7">
+      <point x="-54.5" y="-0.0" />
+      <point x="443.0" y="229.25" />
+      <point x="443.0" y="408.0" />
+      <point x="-45.0" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.26" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-33.5" y="7.0" />
+      <point x="403.0" y="1511.6234825734837" />
+      <point x="403.0" y="1794.3207935207927" />
+      <point x="-33.5" y="-7.875" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-web:jar:1.2.2">
+      <point x="46.0" y="5.25" />
+      <point x="-40.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.3.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-45.0" y="-0.0" />
+      <point x="423.0" y="590.3943159068172" />
+      <point x="423.0" y="1152.833985690236" />
+      <point x="-45.0" y="-6.5625" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.xml.bind:jaxb-api:jar:2.3.1">
+      <point x="-48.0" y="-7.0" />
+      <point x="776.0" y="495.6561666666669" />
+      <point x="776.0" y="192.46937500000013" />
+      <point x="-34.0" y="7.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE">
+      <point x="55.5" y="-9.333333333333371" />
+      <point x="383.0" y="1345.8109825734837" />
+      <point x="403.0" y="759.8943159068172" />
+      <point x="-75.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/com.fasterxml:classmate:jar:1.5.1" target="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final/com.fasterxml:classmate:jar:1.3.4">
+      <point x="-39.0" y="5.25" />
+      <point x="39.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-tx:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-5.1081081081081265" />
+      <point x="76.0" y="953.0193159068172" />
+      <point x="-37.0" y="-2.625" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.activation:javax.activation-api:jar:1.2.0">
+      <point x="54.5" y="-9.0" />
+      <point x="746.0" y="220.25" />
+      <point x="766.0" y="96.46937500000013" />
+      <point x="-66.5" y="-7.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-5.67567567567562" />
+      <point x="76.0" y="822.2693159068172" />
+      <point x="-49.0" y="7.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/com.sun.xml.fastinfoset:FastInfoset:jar:1.2.15">
+      <point x="48.0" y="2.625" />
+      <point x="931.0" y="505.2811666666669" />
+      <point x="951.0" y="541.0311666666669" />
+      <point x="-42.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/org.jvnet.staxex:stax-ex:jar:1.8">
+      <point x="48.0" y="-2.625" />
+      <point x="-31.5" y="-0.0" />
+    </edge>
+    <edge source="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3" target="com.fasterxml.jackson.core:jackson-databind:jar:2.10.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.10.3">
+      <point x="108.5" y="7.0" />
+      <point x="423.0" y="122.0" />
+      <point x="-69.0" y="-5.25" />
+    </edge>
+    <edge source="ch.qos.logback:logback-classic:jar:1.0.13" target="org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-55.0" y="-5.25" />
+      <point x="76.0" y="2181.031875" />
+      <point x="76.0" y="1699.2193750000001" />
+      <point x="-33.5" y="5.25" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-45.0" y="-3.9375" />
+      <point x="403.0" y="1155.458985690236" />
+      <point x="383.0" y="536.25" />
+      <point x="45.0" y="7.0" />
+    </edge>
+    <edge source="org.springframework:spring-orm:jar:5.2.5.RELEASE" target="org.springframework:spring-jdbc:jar:5.2.5.RELEASE">
+      <point x="-43.5" y="-7.0" />
+      <point x="86.0" y="1553.1443159068172" />
+      <point x="86.0" y="1403.1443159068172" />
+      <point x="-44.5" y="7.0" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE" target="org.springframework:spring-context:jar:5.2.5.RELEASE">
+      <point x="-56.0" y="-7.0" />
+      <point x="106.0" y="1041.1443159068172" />
+      <point x="106.0" y="700.125" />
+      <point x="-54.0" y="7.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.apache.tomcat:tomcat-jdbc:jar:8.5.14">
+      <point x="28.0" y="7.2916666666667425" />
+      <point x="76.0" y="1916.3443750000001" />
+      <point x="-47.0" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/org.glassfish.jaxb:txw2:jar:2.3.1">
+      <point x="48.0" y="-7.875" />
+      <point x="931.0" y="494.7811666666669" />
+      <point x="951.0" y="459.0311666666669" />
+      <point x="-25.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework:spring-context:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-54.0" y="-7.0" />
+      <point x="146.0" y="686.125" />
+      <point x="146.0" y="537.65" />
+      <point x="-45.0" y="8.400000000000006" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1/com.sun.istack:istack-commons-runtime:jar:3.0.7">
+      <point x="48.0" y="7.875" />
+      <point x="931.0" y="510.5311666666669" />
+      <point x="-83.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.apache.shiro:shiro-spring:jar:1.2.2">
+      <point x="28.0" y="9.625" />
+      <point x="76.0" y="2140.031875" />
+      <point x="-46.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-orm:jar:5.2.5.RELEASE">
+      <point x="28.0" y="2.837837837837924" />
+      <point x="76.0" y="1567.1443159068172" />
+      <point x="-43.5" y="7.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2">
+      <point x="46.0" y="-5.25" />
+      <point x="403.0" y="2134.781875" />
+      <point x="423.0" y="2082.969375" />
+      <point x="-41.0" y="7.875" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-expression:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-63.0" y="7.0" />
+      <point x="433.0" y="889.8943159068172" />
+      <point x="433.0" y="1150.208985690236" />
+      <point x="-45.0" y="-9.1875" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.javassist:javassist:jar:3.24.0-GA">
+      <point x="54.5" y="-6.0" />
+      <point x="746.0" y="223.25" />
+      <point x="766.0" y="144.46937500000013" />
+      <point x="-34.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springside:springside-core:jar:4.1.0.GA">
+      <point x="28.0" y="-0.29166666666674246" />
+      <point x="76.0" y="1324.9693750000001" />
+      <point x="-57.0" y="-0.0" />
+    </edge>
+    <edge source="ch.qos.logback:logback-classic:jar:1.0.13" target="ch.qos.logback:logback-classic:jar:1.0.13/ch.qos.logback:logback-core:jar:1.0.13">
+      <point x="55.0" y="-0.0" />
+      <point x="-49.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final">
+      <point x="83.5" y="-6.0" />
+      <point x="403.0" y="377.5764999999999" />
+      <point x="423.0" y="220.85000000000002" />
+      <point x="-54.5" y="-8.400000000000006" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-core:jar:2.10.3">
+      <point x="28.0" y="-9.041666666666742" />
+      <point x="76.0" y="347.8264999999999" />
+      <point x="-48.0" y="5.25" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.aspectj:aspectjrt:jar:1.9.5">
+      <point x="55.5" y="4.666666666666629" />
+      <point x="383.0" y="1359.8109825734837" />
+      <point x="403.0" y="1347.2506523569027" />
+      <point x="-36.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="javax.servlet:jstl:jar:1.2">
+      <point x="28.0" y="2.625" />
+      <point x="76.0" y="1529.9693750000001" />
+      <point x="-19.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="ch.qos.logback:logback-classic:jar:1.0.13">
+      <point x="28.0" y="10.208333333333258" />
+      <point x="76.0" y="2191.531875" />
+      <point x="-55.0" y="5.25" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="56.0" y="7.0" />
+      <point x="383.0" y="1055.1443159068172" />
+      <point x="403.0" y="1279.396485690236" />
+      <point x="-49.0" y="-3.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-web:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.26" target="org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-33.5" y="-0.0" />
+      <point x="403.0" y="1504.6234825734837" />
+      <point x="383.0" y="1800.8943159068172" />
+      <point x="33.5" y="-7.875" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.1.0.Final">
+      <point x="-54.5" y="4.199999999999989" />
+      <point x="453.0" y="233.45000000000005" />
+      <point x="453.0" y="365.25" />
+      <point x="-106.5" y="-7.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-aop:jar:5.2.3.RELEASE">
+      <point x="55.5" y="-7.0" />
+      <point x="383.0" y="1348.1443159068172" />
+      <point x="403.0" y="806.1443159068172" />
+      <point x="-43.0" y="5.25" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.apache.commons:commons-lang3:jar:3.1">
+      <point x="28.0" y="-0.875" />
+      <point x="76.0" y="1283.9693750000001" />
+      <point x="-58.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-orm:jar:5.2.3.RELEASE" target="org.springframework:spring-orm:jar:5.2.5.RELEASE">
+      <point x="-43.5" y="5.25" />
+      <point x="403.0" y="1393.5006523569027" />
+      <point x="383.0" y="1567.1443159068172" />
+      <point x="43.5" y="7.0" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-expression:jar:5.2.5.RELEASE">
+      <point x="56.0" y="-7.0" />
+      <point x="383.0" y="1041.1443159068172" />
+      <point x="403.0" y="882.8943159068172" />
+      <point x="-63.0" y="-0.0" />
+    </edge>
+    <edge source="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3" target="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2">
+      <point x="108.5" y="-7.0" />
+      <point x="423.0" y="10.5" />
+      <point x="-68.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="commons-collections:commons-collections:jar:3.2.1">
+      <point x="28.0" y="3.2083333333332575" />
+      <point x="76.0" y="1570.9693750000001" />
+      <point x="-73.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.1.1.Final">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/org.slf4j:slf4j-api:jar:1.6.4" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-33.5" y="-7.0" />
+      <point x="403.0" y="1977.875" />
+      <point x="403.0" y="1810.0707935207927" />
+      <point x="-33.5" y="7.875" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="56.0" y="-0.0" />
+      <point x="383.0" y="1048.1443159068172" />
+      <point x="403.0" y="1158.083985690236" />
+      <point x="-45.0" y="-1.3125" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.5" target="org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-33.5" y="2.625" />
+      <point x="403.0" y="1804.8207935207927" />
+      <point x="383.0" y="1806.1443159068172" />
+      <point x="33.5" y="-2.625" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-tx:jar:5.2.3.RELEASE">
+      <point x="55.5" y="-2.3333333333333712" />
+      <point x="383.0" y="1352.8109825734837" />
+      <point x="403.0" y="966.1443159068172" />
+      <point x="-37.0" y="5.25" />
+    </edge>
+    <edge source="org.springframework:spring-jdbc:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="44.5" y="5.25" />
+      <point x="383.0" y="1401.3943159068172" />
+      <point x="403.0" y="1288.396485690236" />
+      <point x="-49.0" y="6.0" />
+    </edge>
+    <edge source="mysql:mysql-connector-java:jar:8.0.19" target="mysql:mysql-connector-java:jar:8.0.19/com.google.protobuf:protobuf-java:jar:3.6.1">
+      <point x="74.0" y="-0.0" />
+      <point x="403.0" y="1957.3443750000001" />
+      <point x="423.0" y="1993.0943750000001" />
+      <point x="-51.0" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:jar:1.1.1.Final">
+      <point x="83.5" y="-9.0" />
+      <point x="403.0" y="374.5764999999999" />
+      <point x="423.0" y="168.25" />
+      <point x="-100.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.3.RELEASE">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="org.springframework:spring-core:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE/org.springframework:spring-jcl:jar:5.2.5.RELEASE">
+      <point x="45.0" y="-7.0" />
+      <point x="383.0" y="522.25" />
+      <point x="403.0" y="322.76931590681716" />
+      <point x="-38.0" y="-0.0" />
+    </edge>
+    <edge source="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3" target="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3/jakarta.activation:jakarta.activation-api:jar:1.2.1">
+      <point x="108.5" y="-0.0" />
+      <point x="-71.0" y="-0.0" />
+    </edge>
+    <edge source="net.sf.ehcache:ehcache-core:jar:2.6.6/org.slf4j:slf4j-api:jar:1.6.1" target="org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-33.5" y="2.625" />
+      <point x="423.0" y="1801.2193750000001" />
+      <point x="403.0" y="1702.3693750000002" />
+      <point x="33.5" y="8.400000000000091" />
+    </edge>
+    <edge source="org.springframework:spring-test:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-43.0" y="5.25" />
+      <point x="76.0" y="288.125" />
+      <point x="76.0" y="520.85" />
+      <point x="-45.0" y="-8.400000000000006" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE" target="org.springframework:spring-web:jar:5.2.5.RELEASE">
+      <point x="0.0" y="10.5" />
+      <point x="0.0" y="-10.5" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-7.378378378378329" />
+      <point x="76.0" y="525.05" />
+      <point x="-45.0" y="-4.199999999999989" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.apache.shiro:shiro-ehcache:jar:1.2.2">
+      <point x="28.0" y="8.458333333333258" />
+      <point x="76.0" y="2014.9068750000001" />
+      <point x="-51.5" y="-0.0" />
+    </edge>
+    <edge source="org.apache.tomcat:tomcat-jdbc:jar:8.5.14" target="org.apache.tomcat:tomcat-jdbc:jar:8.5.14/org.apache.tomcat:tomcat-juli:jar:8.5.14">
+      <point x="47.0" y="-0.0" />
+      <point x="403.0" y="1916.3443750000001" />
+      <point x="423.0" y="1880.5943750000001" />
+      <point x="-42.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.3.RELEASE">
+      <point x="-75.5" y="-7.0" />
+      <point x="433.0" y="752.8943159068172" />
+      <point x="433.0" y="597.3943159068172" />
+      <point x="-45.0" y="7.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.xml.bind:jaxb-api:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.activation:javax.activation-api:jar:1.2.0">
+      <point x="-34.0" y="-7.0" />
+      <point x="776.0" y="178.46937500000013" />
+      <point x="776.0" y="110.46937500000013" />
+      <point x="-66.5" y="7.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE">
+      <point x="28.0" y="-0.0" />
+      <point x="76.0" y="1355.1443159068172" />
+      <point x="-55.5" y="-0.0" />
+    </edge>
+    <edge source="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3" target="com.fasterxml.jackson.core:jackson-core:jar:2.10.3">
+      <point x="-108.5" y="5.25" />
+      <point x="76.0" y="76.75" />
+      <point x="76.0" y="337.3264999999999" />
+      <point x="-48.0" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.apache.shiro:shiro-quartz:jar:1.2.2">
+      <point x="28.0" y="9.041666666666742" />
+      <point x="76.0" y="2090.344375" />
+      <point x="-46.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="com.google.guava:guava:jar:14.0.1">
+      <point x="28.0" y="5.5416666666667425" />
+      <point x="76.0" y="1734.9693750000001" />
+      <point x="-28.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="junit:junit:jar:4.11">
+      <point x="28.0" y="6.125" />
+      <point x="76.0" y="1805.1568750000001" />
+      <point x="-23.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="commons-fileupload:commons-fileupload:jar:1.2">
+      <point x="28.0" y="4.375" />
+      <point x="76.0" y="1652.9693750000001" />
+      <point x="-71.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-orm:jar:5.2.3.RELEASE">
+      <point x="55.5" y="7.0" />
+      <point x="383.0" y="1362.1443159068172" />
+      <point x="403.0" y="1383.0006523569027" />
+      <point x="-43.5" y="-5.25" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-ehcache:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2">
+      <point x="51.5" y="5.25" />
+      <point x="403.0" y="2020.1568750000001" />
+      <point x="423.0" y="2072.469375" />
+      <point x="-41.0" y="-2.625" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.1.0.Final">
+      <point x="83.5" y="3.0" />
+      <point x="403.0" y="386.5764999999999" />
+      <point x="423.0" y="372.25" />
+      <point x="-106.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="net.sf.ehcache:ehcache-core:jar:2.6.6">
+      <point x="28.0" y="6.7083333333332575" />
+      <point x="76.0" y="1861.4068750000001" />
+      <point x="-50.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/net.bytebuddy:byte-buddy:jar:1.10.7">
+      <point x="83.5" y="6.0" />
+      <point x="403.0" y="389.5764999999999" />
+      <point x="423.0" y="418.5" />
+      <point x="-45.0" y="5.25" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/org.slf4j:slf4j-api:jar:1.6.4" target="org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="-33.5" y="2.625" />
+      <point x="423.0" y="1760.2193750000001" />
+      <point x="403.0" y="1698.1693750000002" />
+      <point x="33.5" y="4.2000000000000455" />
+    </edge>
+    <edge source="org.springframework:spring-jdbc:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="44.5" y="-5.25" />
+      <point x="383.0" y="1390.8943159068172" />
+      <point x="403.0" y="1165.958985690236" />
+      <point x="-45.0" y="6.5625" />
+    </edge>
+    <edge source="org.springframework:spring-aop:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="net.sf.ehcache:ehcache-core:jar:2.6.6" target="net.sf.ehcache:ehcache-core:jar:2.6.6/org.slf4j:slf4j-api:jar:1.6.1">
+      <point x="50.5" y="-5.25" />
+      <point x="403.0" y="1856.1568750000001" />
+      <point x="423.0" y="1806.4693750000001" />
+      <point x="-33.5" y="7.875" />
+    </edge>
+    <edge source="org.springframework:spring-orm:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="43.5" y="-0.0" />
+      <point x="383.0" y="1560.1443159068172" />
+      <point x="403.0" y="1291.396485690236" />
+      <point x="-49.0" y="9.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="javax.servlet.jsp:jsp-api:jar:2.2">
+      <point x="28.0" y="3.7916666666667425" />
+      <point x="76.0" y="1611.9693750000001" />
+      <point x="-30.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final">
+      <point x="28.0" y="-8.458333333333258" />
+      <point x="76.0" y="383.5764999999999" />
+      <point x="-83.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.activation:javax.activation-api:jar:1.2.0">
+      <point x="-48.0" y="-0.0" />
+      <point x="766.0" y="502.6561666666669" />
+      <point x="766.0" y="103.46937500000013" />
+      <point x="-66.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework:spring-orm:jar:5.2.5.RELEASE" target="org.springframework:spring-tx:jar:5.2.5.RELEASE">
+      <point x="-43.5" y="-0.0" />
+      <point x="76.0" y="1560.1443159068172" />
+      <point x="76.0" y="958.2693159068172" />
+      <point x="-37.0" y="2.625" />
+    </edge>
+    <edge source="org.springframework:spring-context:jar:5.2.5.RELEASE" target="org.springframework:spring-webmvc:jar:5.2.5.RELEASE/org.springframework:spring-expression:jar:5.2.5.RELEASE">
+      <point x="54.0" y="5.25" />
+      <point x="383.0" y="698.375" />
+      <point x="403.0" y="875.8943159068172" />
+      <point x="-63.0" y="-7.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final">
+      <point x="28.0" y="-4.9583333333332575" />
+      <point x="76.0" y="825.125" />
+      <point x="-67.0" y="-0.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-ehcache:jar:1.2.2" target="org.apache.shiro:shiro-ehcache:jar:1.2.2/net.sf.ehcache:ehcache-core:jar:2.5.0">
+      <point x="51.5" y="-5.25" />
+      <point x="403.0" y="2009.6568750000001" />
+      <point x="423.0" y="1942.0943750000001" />
+      <point x="-50.5" y="5.25" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.26">
+      <point x="-75.5" y="7.0" />
+      <point x="403.0" y="766.8943159068172" />
+      <point x="403.0" y="1497.6234825734837" />
+      <point x="-33.5" y="-7.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="55.5" y="2.3333333333333712" />
+      <point x="383.0" y="1357.4776492401504" />
+      <point x="403.0" y="1285.396485690236" />
+      <point x="-49.0" y="3.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-jdbc:jar:5.2.5.RELEASE">
+      <point x="28.0" y="0.5675675675674938" />
+      <point x="76.0" y="1396.1443159068172" />
+      <point x="-44.5" y="-0.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/commons-beanutils:commons-beanutils:jar:1.8.3">
+      <point x="41.0" y="-0.0" />
+      <point x="-68.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate.common:hibernate-commons-annotations:jar:5.1.0.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+      <point x="-106.5" y="7.0" />
+      <point x="433.0" y="379.25" />
+      <point x="433.0" y="446.375" />
+      <point x="-51.0" y="-7.875" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-aop:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-6.810810810810835" />
+      <point x="76.0" y="625.125" />
+      <point x="-43.0" y="-7.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-quartz:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2">
+      <point x="46.0" y="5.25" />
+      <point x="403.0" y="2095.594375" />
+      <point x="423.0" y="2077.719375" />
+      <point x="-41.0" y="2.625" />
+    </edge>
+    <edge source="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final" target="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final/com.fasterxml:classmate:jar:1.3.4">
+      <point x="67.0" y="7.0" />
+      <point x="403.0" y="832.125" />
+      <point x="423.0" y="843.5943750000001" />
+      <point x="-39.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-test:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-8.513513513513544" />
+      <point x="76.0" y="277.625" />
+      <point x="-43.0" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="55.5" y="9.333333333333371" />
+      <point x="383.0" y="1364.4776492401504" />
+      <point x="403.0" y="1799.5707935207927" />
+      <point x="-33.5" y="-2.625" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/javax.xml.bind:jaxb-api:jar:2.3.1">
+      <point x="54.5" y="-3.0" />
+      <point x="746.0" y="226.25" />
+      <point x="766.0" y="185.46937500000013" />
+      <point x="-34.0" y="-0.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-ehcache:jar:1.2.2/net.sf.ehcache:ehcache-core:jar:2.5.0" target="net.sf.ehcache:ehcache-core:jar:2.6.6">
+      <point x="-50.5" y="-5.25" />
+      <point x="423.0" y="1931.5943750000001" />
+      <point x="403.0" y="1866.6568750000001" />
+      <point x="50.5" y="5.25" />
+    </edge>
+    <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.10.3" target="com.fasterxml.jackson.core:jackson-databind:jar:2.10.3/com.fasterxml.jackson.core:jackson-annotations:jar:2.10.3">
+      <point x="61.0" y="-0.0" />
+      <point x="-69.0" y="5.25" />
+    </edge>
+    <edge source="org.springframework:spring-aop:jar:5.2.5.RELEASE" target="org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="-43.0" y="7.0" />
+      <point x="136.0" y="639.125" />
+      <point x="136.0" y="808.2693159068172" />
+      <point x="-49.0" y="-7.0" />
+    </edge>
+    <edge source="net.sf.ehcache:ehcache-core:jar:2.6.6/org.slf4j:slf4j-api:jar:1.6.1" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="org.springframework:spring-web:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="44.0" y="-5.25" />
+      <point x="383.0" y="1103.8943159068172" />
+      <point x="403.0" y="1160.708985690236" />
+      <point x="-45.0" y="1.3125" />
+    </edge>
+    <edge source="org.springframework:spring-tx:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-37.0" y="-7.875" />
+      <point x="116.0" y="947.7693159068172" />
+      <point x="116.0" y="529.25" />
+      <point x="-45.0" y="-0.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2" target="org.apache.shiro:shiro-spring:jar:1.2.2/org.apache.shiro:shiro-core:jar:1.2.2/org.slf4j:slf4j-api:jar:1.6.4">
+      <point x="-41.0" y="-7.875" />
+      <point x="423.0" y="2067.219375" />
+      <point x="423.0" y="1765.4693750000001" />
+      <point x="-33.5" y="7.875" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.jboss:jandex:jar:2.1.1.Final">
+      <point x="54.5" y="-0.0" />
+      <point x="746.0" y="229.25" />
+      <point x="766.0" y="226.46937500000013" />
+      <point x="-30.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework:spring-webmvc:jar:5.2.5.RELEASE" target="org.springframework:spring-aop:jar:5.2.5.RELEASE">
+      <point x="-56.0" y="-0.0" />
+      <point x="96.0" y="1048.1443159068172" />
+      <point x="96.0" y="632.125" />
+      <point x="-43.0" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+      <point x="-54.5" y="-4.199999999999989" />
+      <point x="423.0" y="225.04999999999995" />
+      <point x="423.0" y="451.625" />
+      <point x="-51.0" y="-2.625" />
+    </edge>
+    <edge source="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3/jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.2" target="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3/jakarta.activation:jakarta.activation-api:jar:1.2.1">
+      <point x="0.0" y="10.5" />
+      <point x="0.0" y="-10.5" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-context:jar:5.2.3.RELEASE" target="org.springframework:spring-context:jar:5.2.5.RELEASE">
+      <point x="-54.0" y="-5.25" />
+      <point x="403.0" y="836.6443159068172" />
+      <point x="383.0" y="687.875" />
+      <point x="54.0" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-webmvc:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-3.9729729729729115" />
+      <point x="76.0" y="1055.1443159068172" />
+      <point x="-56.0" y="7.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="commons-codec:commons-codec:jar:1.8">
+      <point x="28.0" y="0.875" />
+      <point x="76.0" y="1406.9693750000001" />
+      <point x="-60.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework:spring-web:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="44.0" y="5.25" />
+      <point x="383.0" y="1114.3943159068172" />
+      <point x="403.0" y="1282.396485690236" />
+      <point x="-49.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework:spring-context:jar:5.2.5.RELEASE" target="org.springframework:spring-aop:jar:5.2.5.RELEASE">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.3.RELEASE" target="org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="-49.0" y="-5.25" />
+      <point x="403.0" y="693.6443159068172" />
+      <point x="383.0" y="810.0193159068172" />
+      <point x="49.0" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="commons-io:commons-io:jar:2.4">
+      <point x="28.0" y="0.29166666666674246" />
+      <point x="76.0" y="1365.9693750000001" />
+      <point x="-47.5" y="-0.0" />
+    </edge>
+    <edge source="org.apache.shiro:shiro-quartz:jar:1.2.2" target="org.apache.shiro:shiro-quartz:jar:1.2.2/org.opensymphony.quartz:quartz:jar:1.6.1">
+      <point x="46.0" y="-5.25" />
+      <point x="403.0" y="2085.094375" />
+      <point x="423.0" y="2034.0943750000001" />
+      <point x="-29.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-web:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-3.4054054054054177" />
+      <point x="76.0" y="1109.1443159068172" />
+      <point x="-44.0" y="-0.0" />
+    </edge>
+    <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+      <point x="23.5" y="-0.0" />
+      <point x="403.0" y="1805.1568750000001" />
+      <point x="423.0" y="1839.5943750000001" />
+      <point x="-53.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3">
+      <point x="28.0" y="-10.208333333333258" />
+      <point x="76.0" y="66.25" />
+      <point x="-108.5" y="-5.25" />
+    </edge>
+    <edge source="com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.10.3" target="com.fasterxml.jackson.core:jackson-databind:jar:2.10.3">
+      <point x="0.0" y="10.5" />
+      <point x="0.0" y="-10.5" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.dom4j:dom4j:jar:2.1.1">
+      <point x="83.5" y="-0.0" />
+      <point x="403.0" y="383.5764999999999" />
+      <point x="423.0" y="336.5" />
+      <point x="-29.5" y="5.25" />
+    </edge>
+    <edge source="org.springframework:spring-context:jar:5.2.5.RELEASE" target="org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="0.0" y="10.5" />
+      <point x="0.0" y="-10.5" />
+    </edge>
+    <edge source="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+      <point x="67.0" y="-7.0" />
+      <point x="403.0" y="818.125" />
+      <point x="423.0" y="462.125" />
+      <point x="-51.0" y="7.875" />
+    </edge>
+    <edge source="org.springframework:spring-jdbc:jar:5.2.5.RELEASE" target="org.springframework:spring-tx:jar:5.2.5.RELEASE">
+      <point x="-44.5" y="-7.0" />
+      <point x="86.0" y="1389.1443159068172" />
+      <point x="86.0" y="963.5193159068172" />
+      <point x="-37.0" y="7.875" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.springframework:spring-context:jar:5.2.5.RELEASE">
+      <point x="28.0" y="-6.243243243243342" />
+      <point x="76.0" y="693.125" />
+      <point x="-54.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.5">
+      <point x="28.0" y="4.9583333333332575" />
+      <point x="76.0" y="1688.7193750000001" />
+      <point x="-33.5" y="-5.25" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/javax.persistence:javax.persistence-api:jar:2.2">
+      <point x="0.0" y="10.5" />
+      <point x="0.0" y="-10.5" />
+    </edge>
+    <edge source="org.springframework:spring-orm:jar:5.2.5.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="43.5" y="-7.0" />
+      <point x="383.0" y="1553.1443159068172" />
+      <point x="403.0" y="1168.583985690236" />
+      <point x="-45.0" y="9.1875" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="commons-logging:commons-logging:jar:1.1.3">
+      <point x="28.0" y="2.0416666666667425" />
+      <point x="76.0" y="1488.9693750000001" />
+      <point x="-64.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework:spring-beans:jar:5.2.5.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-49.0" y="-0.0" />
+      <point x="126.0" y="815.2693159068172" />
+      <point x="126.0" y="533.45" />
+      <point x="-45.0" y="4.199999999999989" />
+    </edge>
+    <edge source="com.fasterxml.jackson.core:jackson-databind:jar:2.10.3" target="com.fasterxml.jackson.core:jackson-core:jar:2.10.3">
+      <point x="0.0" y="10.5" />
+      <point x="0.0" y="-10.5" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.3.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="-49.0" y="5.25" />
+      <point x="413.0" y="704.1443159068172" />
+      <point x="413.0" y="1273.396485690236" />
+      <point x="-49.0" y="-9.0" />
+    </edge>
+    <edge source="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final" target="org.hibernate.validator:hibernate-validator:jar:6.1.3.Final/jakarta.validation:jakarta.validation-api:jar:2.0.2">
+      <point x="67.0" y="-0.0" />
+      <point x="403.0" y="825.125" />
+      <point x="423.0" y="802.5943750000001" />
+      <point x="-71.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-beans:jar:5.2.5.RELEASE" target="org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="-49.0" y="-6.0" />
+      <point x="403.0" y="1276.396485690236" />
+      <point x="383.0" y="820.5193159068172" />
+      <point x="49.0" y="5.25" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/com.fasterxml:classmate:jar:1.5.1">
+      <point x="54.5" y="9.0" />
+      <point x="746.0" y="238.25" />
+      <point x="766.0" y="833.0943750000001" />
+      <point x="-39.0" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="mysql:mysql-connector-java:jar:8.0.19">
+      <point x="28.0" y="7.875" />
+      <point x="76.0" y="1957.3443750000001" />
+      <point x="-74.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-tx:jar:5.2.3.RELEASE" target="org.springframework:spring-tx:jar:5.2.5.RELEASE">
+      <point x="-37.0" y="-5.25" />
+      <point x="37.0" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/antlr:antlr:jar:2.7.7">
+      <point x="54.5" y="3.0" />
+      <point x="746.0" y="232.25" />
+      <point x="766.0" y="267.4693750000001" />
+      <point x="-24.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="com.fasterxml.jackson.core:jackson-databind:jar:2.10.3">
+      <point x="28.0" y="-9.625" />
+      <point x="76.0" y="132.5" />
+      <point x="-61.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="javax.servlet:servlet-api:jar:2.5">
+      <point x="28.0" y="1.4583333333332575" />
+      <point x="76.0" y="1447.9693750000001" />
+      <point x="-41.5" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final/org.glassfish.jaxb:jaxb-runtime:jar:2.3.1">
+      <point x="54.5" y="6.0" />
+      <point x="746.0" y="235.25" />
+      <point x="766.0" y="509.6561666666669" />
+      <point x="-48.0" y="7.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="55.5" y="-0.0" />
+      <point x="383.0" y="1355.1443159068172" />
+      <point x="403.0" y="1163.333985690236" />
+      <point x="-45.0" y="3.9375" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework.data:spring-data-commons:jar:2.2.4.RELEASE/org.springframework:spring-core:jar:5.2.3.RELEASE" target="org.springframework:spring-core:jar:5.2.5.RELEASE">
+      <point x="-45.0" y="-7.0" />
+      <point x="403.0" y="583.3943159068172" />
+      <point x="383.0" y="529.25" />
+      <point x="45.0" y="-0.0" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/javax.persistence:javax.persistence-api:jar:2.2">
+      <point x="83.5" y="-3.0" />
+      <point x="403.0" y="380.5764999999999" />
+      <point x="423.0" y="290.25" />
+      <point x="-71.5" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE" target="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-context:jar:5.2.3.RELEASE">
+      <point x="55.5" y="-4.666666666666629" />
+      <point x="383.0" y="1350.4776492401504" />
+      <point x="403.0" y="847.1443159068172" />
+      <point x="-54.0" y="5.25" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final">
+      <point x="83.5" y="9.0" />
+      <point x="403.0" y="392.5764999999999" />
+      <point x="423.0" y="456.875" />
+      <point x="-51.0" y="2.625" />
+    </edge>
+    <edge source="org.springframework:spring-tx:jar:5.2.5.RELEASE" target="org.springframework:spring-beans:jar:5.2.5.RELEASE">
+      <point x="0.0" y="-10.5" />
+      <point x="0.0" y="10.5" />
+    </edge>
+    <edge source="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.hibernate:hibernate-core:jar:5.4.14.Final" target="org.hibernate:hibernate-entitymanager:jar:5.4.14.Final/org.dom4j:dom4j:jar:2.1.1">
+      <point x="-54.5" y="8.400000000000006" />
+      <point x="463.0" y="237.64999999999998" />
+      <point x="463.0" y="326.0" />
+      <point x="-29.5" y="-5.25" />
+    </edge>
+    <edge source="org.springframework.samples.service.service:demo:0.0.1-SNAPSHOT" target="com.alibaba:fastjson:jar:1.2.68">
+      <point x="28.0" y="-4.540540540540633" />
+      <point x="76.0" y="1007.1443159068172" />
+      <point x="-33.0" y="-0.0" />
+    </edge>
+    <edge source="org.springframework.data:spring-data-jpa:jar:2.2.4.RELEASE/org.springframework:spring-aop:jar:5.2.3.RELEASE" target="org.springframework:spring-aop:jar:5.2.5.RELEASE">
+      <point x="-43.0" y="-5.25" />
+      <point x="403.0" y="795.6443159068172" />
+      <point x="383.0" y="632.125" />
+      <point x="43.0" y="-0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.2165087956698241" x="559.0" y="1098.5" />
+  <SelectedNodes />
+  <Categories />
+  <VISIBILITY>All</VISIBILITY>
+</Diagram>
+
