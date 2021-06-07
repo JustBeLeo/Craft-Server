@@ -52,7 +52,7 @@
         <jdbc.driver.artifactId>mysql-connector-java</jdbc.driver.artifactId>
         <jdbc.driver.version>${mysql.version}</jdbc.driver.version>
         <!-- Logging -->
-        <logback.version>1.0.13</logback.version>
+        <logback.version>1.2.0</logback.version>
         <slf4j.version>1.7.5</slf4j.version>
         <!-- Test -->
         <junit.version>4.11</junit.version>
