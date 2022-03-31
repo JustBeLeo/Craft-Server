@@ -37,7 +37,7 @@
         <guava.version>28.1-jre</guava.version>
         <jackson.version>2.10.3</jackson.version>
         <!-- Spring -->
-        <spring.version>5.2.5.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <springside.version>4.1.0.GA</springside.version>
         <!-- Hibernate / JPA -->
         <hibernate.version>5.4.14.Final</hibernate.version>
