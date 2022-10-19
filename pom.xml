@@ -35,7 +35,7 @@
         <commons-io>2.4</commons-io>
         <commons-fileupload>1.2</commons-fileupload>
         <guava.version>28.1-jre</guava.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <!-- Spring -->
         <spring.version>5.2.5.RELEASE</spring.version>
         <springside.version>4.1.0.GA</springside.version>
